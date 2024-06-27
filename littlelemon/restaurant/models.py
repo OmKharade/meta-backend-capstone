@@ -7,7 +7,7 @@ class Booking(models.Model):
     booking_date = models.DateField()
 
     def __str__(self) -> str:
-        return self.name
+        return f"{self.name}, {self.no_of_guests} guests on {self.booking_date}"
 
 
 class Menu(models.Model):
