@@ -1,10 +1,8 @@
 # Little Lemon Restaurant
 
-![Lemon Web Application](restaurant\static\img\logo.png)
+![Lemon Web Application](restaurant/static/img/logo.png)
 
 ## Meta Backend Developer Capstone Project
-
-![Meta](restaurant\static\img\meta.jpg)
 
 
 This project is a web application for the Little Lemon restaurant, developed as the capstone project for the Meta Backend Developer course. It's built using Django and incorporates various features including menu management, table booking, and user authentication.
@@ -86,3 +84,5 @@ Contributions to this project are welcome. Please fork the repository and submit
 ### Acknowledgements
 
 This project was completed as part of the Meta Backend Developer Specialization on Coursera.
+
+![Meta](restaurant/static/img/meta.jpg)
